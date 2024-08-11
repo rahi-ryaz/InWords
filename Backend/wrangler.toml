@@ -2,8 +2,8 @@ name = "abc"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZjkxMTVhZDAtYWQyZi00OTE0LWJlMGYtM2Q1NDE5OWJmZGE5IiwidGVuYW50X2lkIjoiNjllMTkzZmJlYzgxMGEyZmE4ODEyMWQzMTMzOGNjZGU3OTU2ZDUwODIwNmFjZWY4YmIyNjM2NzJhNWM0YTkyMyIsImludGVybmFsX3NlY3JldCI6IjAzMTE3MTAwLTY5YWItNDVlYS04NGQ5LWUyNTI1ZWYxNmJkMCJ9.RrXv9VnQJ6udYE1u9r4Q6HKMyEvBokhq8Ae0g7LyBck"
-JWT_SECRET="rahiryaz"
+DATABASE_URL=""
+JWT_SECRET=""
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
 # id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
