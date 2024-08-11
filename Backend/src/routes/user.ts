@@ -40,7 +40,7 @@ userRouter.post('/signup', async (c) => {
     } catch(e) {
       console.log(e);
       c.status(411);
-      return c.text('Invalid')
+      return c.text('Invalid credentials')
     }
   })
   
